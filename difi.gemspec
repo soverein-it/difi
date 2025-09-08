@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["runar@rin.no"]
   spec.description   = %q{Exploit public information from the Norwegian Agency for Public Management and eGovernment (Difi)}
   spec.summary       = %q{Query the Difi API}
-  spec.homepage      = "https://github.com/voitmore/difi"
+  spec.homepage      = "https://github.com/soverein-it/difi"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
