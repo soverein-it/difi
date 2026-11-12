@@ -1,5 +1,10 @@
 # Difi
 
+> **⚠️ Deprecated:** This gem is no longer maintained and does not work.
+> The Difi API at hotell.difi.no has been shut down.
+> Use the Brønnøysund Register Centre's API at
+> https://data.brreg.no/enhetsregisteret/api/docs/index.html directly instead.
+
 The Norwegian government has started publishing a lot of data through a central API.
 Information can be found at http://data.norge.no/
 
